@@ -2,7 +2,7 @@
 
 I'm **xTheSebaSx**, a person and bot developer from Discord
 
-- Actually i'm working in **[Engine](https://github.com/EngineBots)**.
+- Actually i'm working in **[Engine](https://github.com/EngineBots)** and **[Luxter](https://github.com/Luxter-bot/luxter-bot)** (My own bot).
 
 ## Social media
 
